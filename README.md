@@ -1,6 +1,7 @@
 # EasyM3U8
 
-无广告视频，加速下载视频。
+- 这是一款油猴插件，用于无广告视频，加速下载视频。
+- 项目地址 [https://github.com/xcanwin/EasyM3U8/](https://github.com/xcanwin/EasyM3U8/)，欢迎🌟STAR🌟
 
 ## 安装渠道
 
